@@ -48,3 +48,4 @@ public class FlightApp extends Application {
         flightInfoArea.setText(schedule);
     }
 }
+
